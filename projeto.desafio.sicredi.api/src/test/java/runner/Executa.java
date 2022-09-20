@@ -9,8 +9,8 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 @CucumberOptions(
 		features = "src/test/resources/features",
 		glue = "steps",
-		tags = "@consultas",
-		plugin = {"pretty", "html:target/consultar-simulacoes.html"},
+		tags = "@cliente",
+		plugin = {"pretty", "html:target/consulta-cliente-cpf.html"},
 		monochrome = true,
 		dryRun = false,
 		snippets = SnippetType.CAMELCASE
