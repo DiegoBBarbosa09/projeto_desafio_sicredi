@@ -7,3 +7,4 @@
 <p align="center">Junit para validação dos cenarios, Cucumber para escrita dos cenarios de testes.</p>
 <p align="center">Todos os cenarios de testes foram validados os status code e as mensagens de retorno conforme a regra de negocio</p>
 
+
